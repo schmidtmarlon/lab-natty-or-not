@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA na CAIXA: como o uso do ChatCaixa agiliza a pesuisa em manuas normativos Caixa
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa ChatCaixa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatCaixa como ferramente de pesquisa em manuais normativos internos Caixa nos últimos 15 dias e trouxe suas respostas a fim de mostrar a capacidade da ferramena de tirar dúvidas de empregados de forma rápida e fácil.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta perguntas e respostas feitas nos últimos 15 dias nos mais diveros assintos internos da empresa Caixa Econômica Federal.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
